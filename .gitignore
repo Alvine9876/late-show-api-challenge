@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+*.venv
+venv/
+env/
+.venv/
+pipenv/
+
+
+Pipfile.lock
+.env
+*.sqlite3
+*.db
+migrations/
+*.postman_environment.json
+.vscode/
