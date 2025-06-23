@@ -13,5 +13,6 @@ Pipfile.lock
 *.sqlite3
 *.db
 migrations/
-*.postman_environment.json
 .vscode/
+*.postman_environment.json
+
